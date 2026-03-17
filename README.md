@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi 👋 I'm Pranathi
 
-<!--
-**pranathi-codes/pranathi-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 2nd Year Computer Science Student  
+🚀 Currently doing a **30 Days Java Coding Challenge**  
+📚 Learning Java, DSA, and Problem Solving  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Current Challenge
+
+• Solving problems on HackerRank  
+• Uploading code daily on GitHub  
+• Sharing progress on LinkedIn  
+
+---
+
+## 🛠️ Languages & Tools
+
+- Java  
+- GitHub  
+- HackerRank  
+- VS Code / IntelliJ  
+
+---
+
+## 📈 Goal
+
+To become strong in **DSA and development** through consistent practice.  
+
+📂 Check out my work:  
+👉 https://github.com/pranathi-codes/java-practice
