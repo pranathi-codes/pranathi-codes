@@ -29,3 +29,14 @@ To become strong in **DSA and development** through consistent practice.
 
 📂 Check out my work:  
 👉 https://github.com/pranathi-codes/java-practice
+
+---
+
+## 📊 GitHub Stats
+
+![Pranathi's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranathi-codes&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=pranathi-codes&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranathi-codes&layout=compact&theme=tokyonight)
+
