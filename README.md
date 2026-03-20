@@ -1,16 +1,13 @@
 # Hi 👋 I'm Pranathi
 
-💻 2nd Year Computer Science Student  
-🚀 Currently doing a **30 Days Java Coding Challenge**  
+💻 2nd Year Computer Science Student    
 📚 Learning Java, DSA, and Problem Solving  
 
 ---
+| 🔥 Streak | 🟨 Languages |
+|----------|-------------|
+| <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranathi-codes&theme=tokyonight&hide_border=true" height="150"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranathi-codes&layout=compact&theme=tokyonight&hide_border=true" height="150"/> |
 
-## 🔥 Current Challenge
-
-• Solving problems on HackerRank  
-• Uploading code daily on GitHub  
-• Sharing progress on LinkedIn  
 
 ---
 
@@ -30,13 +27,6 @@ To become strong in **DSA and development** through consistent practice.
 📂 Check out my work:  
 👉 https://github.com/pranathi-codes/java-practice
 
----
 
-## 📊 GitHub Stats
 
-![Pranathi's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranathi-codes&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=pranathi-codes&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranathi-codes&layout=compact&theme=tokyonight)
 
